@@ -6,7 +6,7 @@ FROM node:16
 
 # Set the working directory
 WORKDIR /app
-
+#it works
 # Copy the file from your host to your current location
 COPY package.json .
 
