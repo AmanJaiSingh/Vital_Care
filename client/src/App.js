@@ -5,6 +5,7 @@ import Clogin from "./pages/Clogin";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
 // import Cart from "./pages/Cart";
+//just checking
 import {
   BrowserRouter as Router,
   Routes,
